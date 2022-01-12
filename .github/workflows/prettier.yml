@@ -13,7 +13,7 @@ jobs:
       with:
         ref: ${{ github.head_ref }}
     - run: pwd
-    - run: npx prettier -w */*.md
+    - run: npx prettier -w **/*.md
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
