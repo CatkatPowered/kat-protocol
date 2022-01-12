@@ -16,7 +16,7 @@ jobs:
     - name: Prettify code
       uses: creyD/prettier_action@v4.1.1
       with:
-        prettier_options: --write */*.{md}
+        prettier_options: --write */*.md
         only_changed: True
         commit_message: "🤖 bot(prettier): Auto prettify, head ref :${{ github.head_ref }}"
         
