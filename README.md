@@ -25,7 +25,8 @@ Kat Project 是对协议的实现
 为了避免您在阅读文档时对于某一些特有名词感到疑惑，您可以在阅读前大致阅读一次 [术语表](./terminology.md)
 
 - [关于协议](./protocol.md)
-- [通信方式 websocket / websockets](./websocket.md)
+- [通信方式 websocket / websockets](./websocket/websocket.md)
+- [通信方式 http / https](./http/http.md)
 - [术语表 专用术语对照表](./terminology.md)
 
 ### 📝 如何贡献？
