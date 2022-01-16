@@ -26,6 +26,9 @@ Kat Project 是对协议的实现
 
 - [关于协议](./protocol.md)
 - [通信方式 websocket / websockets](./websocket/websocket.md)
+  - [服务器描述包](./websocket/description/server.md)
+  - [桥描述包](./websocket/description/bridge.md)
+  - [插件描述包](./websocket/description/plugin.md)
 - [通信方式 http / https](./http/http.md)
 - [术语表 专用术语对照表](./terminology.md)
 

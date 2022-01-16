@@ -28,6 +28,10 @@ WebSocket 是一种在单个 TCP 连接上进行**全双工通信**的协议
 
 此数据包分类下的数据包是包含各个模块所需提供给客户端对程序自身描述的描述数据包
 
+- [服务器描述包](./description/server.md)
+- [桥描述包](./description/bridge.md)
+- [插件描述包](./description/plugin.md)
+
 ## 消息数据包
 
 此数据包分类下的数据包描述与桥交互所需的信息
