@@ -63,4 +63,4 @@ public class KatUniMessage {
 
 ## 数据结构样式
 
-![KatUniMessage](./KatUniMessage.drawio.png)
+![KatUniMessage](https://picture.hanbings.com/2022/02/18/a027415ac216f.png)
