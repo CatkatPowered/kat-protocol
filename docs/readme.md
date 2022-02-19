@@ -42,4 +42,3 @@ Kat Project 是对协议的实现
 ### 📝 如何贡献或是提出问题？
 
 在 [此处](contribution.md) 阅读文档
-
