@@ -20,7 +20,7 @@
 
    - 图片资源**放置在 resources 目录下**，在文档中引用时使用**相对路径**，例如 /docs/resources/picture.jpg 在文档中应该是 resources/picture.jpg
 
-   - 新增的文档需要在 docs/readme.md 和 docs/_sidebar.md 中添加索引
+   - 新增的文档需要在 docs/readme.md 和 docs/\_sidebar.md 中添加索引
 
    - commit message 尽可能准循
 
