@@ -21,7 +21,7 @@ Kat Project 是对协议的实现
 
 </div>
 
-### 🍉 声明
+### 🍉 协议与声明
 
 本项目具有 [用户协议](https://project.catkatpowered.com/#/terms-of-use) 和 [开源声明](https://project.catkatpowered.com/#/open-source-license)
 
