@@ -33,12 +33,11 @@ Kat Project 是对协议的实现
 - [通信方式 http / https](http.md)
 - [聊天数据结构](unimessage.md)
 - [术语表 专用术语对照表](terminology.md)
+- [贡献和提问](contribution.md)
 
-### 📝 如何贡献？
+### 📝 如何贡献或是提出问题？
 
-推荐使用 Visual Studio Code 进行文件编辑，在提交后 Github Actions 会自动使用 `Prettier` 进行整体格式化
-
-推荐使用 [git-commit-plugin](https://marketplace.visualstudio.com/items?itemName=redjue.git-commit-plugin) 插件，当提交文件的时候使用合适的模板编写 Commit Message
+在 [此处](contribution.md) 阅读文档
 
 ### 🍉 声明
 
