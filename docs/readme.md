@@ -41,4 +41,4 @@ Kat Project 是对协议的实现
 
 ### 🍉 声明
 
-本项目不会对您的行为负责，请自觉遵守**中华人民共和国法律以及当地法律**
+本项目具有 [用户协议](https://project.catkatpowered.com/#/terms-of-use) 和 [开源声明](https://project.catkatpowered.com/#/open-source-license)
