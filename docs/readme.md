@@ -21,6 +21,10 @@ Kat Project 是对协议的实现
 
 </div>
 
+### 🍉 声明
+
+本项目具有 [用户协议](https://project.catkatpowered.com/#/terms-of-use) 和 [开源声明](https://project.catkatpowered.com/#/open-source-license)
+
 ### 🍀 开始阅读
 
 为了避免您在阅读文档时对于某一些特有名词感到疑惑，您可以在阅读前大致阅读一次 [术语表](terminology.md)
@@ -39,6 +43,3 @@ Kat Project 是对协议的实现
 
 在 [此处](contribution.md) 阅读文档
 
-### 🍉 声明
-
-本项目具有 [用户协议](https://project.catkatpowered.com/#/terms-of-use) 和 [开源声明](https://project.catkatpowered.com/#/open-source-license)
