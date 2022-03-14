@@ -49,4 +49,3 @@ WebSocket 是一种在单个 TCP 连接上进行**全双工通信**的协议
 
 - [服务器描述包](websocket-description-server-packet.md)
 - [扩展描述包](websocket-description-description-packet.md)
-
