@@ -1,11 +1,15 @@
-# HTTP部分
-> HTTP协议在kat-server中主要用于文件的传输，只是作为websocket协议的辅助
+# HTTP 部分
+
+> HTTP 协议在 kat-server 中主要用于文件的传输，只是作为 websocket 协议的辅助
+
 ## 过程详解
 
 ### IM Provider => kat-server => mosseger
-1. kat-server => mosseger发送WebsocketMessagePacket, 其中包含的KatUniMessage包含请求的URL和一次性鉴权token
-2. mosseger => kat-server使用GET方式请求HTTP接口, 使用一次性鉴权token拉取资源文件
+
+1. kat-server => mosseger 发送 WebsocketMessagePacket, 其中包含的 KatUniMessage 包含请求的 URL 和一次性鉴权 token
+2. mosseger => kat-server 使用 GET 方式请求 HTTP 接口, 使用一次性鉴权 token 拉取资源文件
 
 ### mosseger => kat-server => IM Provider
-1. mosseger => kat-server使用POST方式请求HTTP统一上传接口, 上传完成后获得一次性鉴权token
-2. mosseger => kat-server发送WebsocketMessagePacket, 其中包含的KatUniMessage包含文件的hash以及一次性鉴权token, 此时的KatUniMessage的isDownloadable应为false
+
+1. mosseger => kat-server 使用 POST 方式请求 HTTP 统一上传接口, 上传完成后获得一次性鉴权 token
+2. mosseger => kat-server 发送 WebsocketMessagePacket, 其中包含的 KatUniMessage 包含文件的 hash 以及一次性鉴权 token, 此时的 KatUniMessage 的 isDownloadable 应为 false
